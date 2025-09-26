@@ -30,6 +30,3 @@ This contract demonstrates various array operations in Solidity including dynami
 
 [📖 Submit Arrays Exercise](https://docs.base.org/learn/arrays/arrays-exercise)
 
----
-
-[← Previous Exercise](https://github.com/yourusername/03-EmployeeStorage) | [Next Exercise →](https://github.com/yourusername/05-FavoriteRecords)
